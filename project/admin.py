@@ -1,4 +1,4 @@
 from django.contrib import admin
-from .models import signupform
+# from .models import signupform
 
-admin.site.register(signupform)
+# admin.site.register(signupform)
